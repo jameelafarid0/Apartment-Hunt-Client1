@@ -1,0 +1,35 @@
+.card-body {
+  padding: 0px;
+  padding-left: 20px;
+  padding-top: 10px; 
+}
+
+.fontSize {
+  font-size: 13px; }
+
+.left {
+  margin-left: 10px; }
+
+.price {
+  font-size: 30px;
+  color: #275a53;
+  font-weight: bold;
+  margin: 10px 0px 5px 0px; }
+
+.Buttons {
+  color: white;
+  font-size: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-left: 53px;
+  margin-bottom: 10px;
+  border-radius: 0px;
+  background-color: #275a53;
+  transition: 0.5s; }
+
+.Buttons:hover {
+  background-color: #348177; }
+
+.bottom {
+  margin-top: 20px;
+  margin-bottom: 10px; }

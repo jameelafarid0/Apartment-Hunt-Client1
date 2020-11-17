@@ -1,0 +1,11 @@
+.backgroundColor {
+  background-color: #275a53; }
+
+.color {
+  color: white; }
+
+ul li {
+  text-decoration: none;
+  color: white;
+  text-transform: none;
+  list-style-type: none; }
